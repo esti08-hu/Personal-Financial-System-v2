@@ -1,5 +1,7 @@
 # Personal Financial System 💸
 
+![Landing Page](images/landing-page.png)
+
 ## Features 🚀
 
 - **Transaction Management:**
