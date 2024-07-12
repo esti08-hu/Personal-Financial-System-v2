@@ -1,6 +1,6 @@
 # Personal Financial System 💸
 
-![Landing Page](landing-page.png)
+![landing-page](https://github.com/user-attachments/assets/aece8337-d51b-4f0e-9019-a2386b9d1d62)
 
 ## Features 🚀
 
