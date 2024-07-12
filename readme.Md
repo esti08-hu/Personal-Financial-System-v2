@@ -1,6 +1,6 @@
 # Personal Financial System 💸
 
-![Landing Page](images/landing-page.png)
+![Landing Page](landing-page.png)
 
 ## Features 🚀
 
