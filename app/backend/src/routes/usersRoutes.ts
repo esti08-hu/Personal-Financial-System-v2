@@ -13,6 +13,7 @@ const router = Router();
 router.post(
   "/signup",
   [
+        // Validation middleware for the signup route
     body("email").isEmail().withMessage("Enter a valid email"),
     body("firstName").not().isEmpty().withMessage("First name is required"),
     body("lastName").not().isEmpty().withMessage("Last name is required"),
